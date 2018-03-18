@@ -1,1 +1,7 @@
-# Invoice-Smart-Contract1
+* meteor install
+
+* npm install
+
+* meteor --settings settings.json
+
+
